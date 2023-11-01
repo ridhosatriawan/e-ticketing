@@ -1,0 +1,27 @@
+.header {
+  background-color: white;
+  height: 60px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+
+.sider {
+  padding: 30px;
+  background-color: #00b4d8 !important;
+}
+
+.sider-title {
+  padding-bottom: 20px;
+  color: white !important;
+  text-align: center;
+}
+
+.ant-layout-content {
+  background-color: #f0f2f5;
+  padding: 20px;
+}
+
+.ant-menu {
+  background-color: #00b4d8;
+}
